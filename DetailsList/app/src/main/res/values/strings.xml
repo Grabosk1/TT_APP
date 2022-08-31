@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TrekkingTrails</string>
+    <string name="todo">TODO</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="dystans">Dystans:</string>
+    <string name="route_name">Route name</string>
+    <string name="distance">Distance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="route_description">Route Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="HomePage">Home Page TODO</string>
+    <string name="start">start</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="pomiar_czasu">Pomiar czasu</string>
+    <string name="reset">reset</string>
+    <string name="stop">stop</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="statystyki">Statystyki:</string>
+    <string name="rekord">Rekord:</string>
+    <string name="data">Data:</string>
+    <string name="ilo_przej">Ilość przejść:</string>
+    <bool name="isTablet">false</bool>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+</resources>

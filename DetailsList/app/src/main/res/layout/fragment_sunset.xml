@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/dark_gray"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/sun"
+        android:layout_width="137dp"
+        android:layout_height="136dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="5sp"
+        android:layout_marginEnd="10sp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/eagle2" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="wrap_content"
+        android:layout_height="443dp"
+        android:background="@drawable/gory3"
+        app:lottie_rawRes="@raw/bear2" />
+
+    <TextView
+        android:id="@+id/temp_view"
+        android:layout_width="wrap_content"
+        android:layout_height="96dp"
+        android:layout_gravity="center"
+        android:text="Akutalna lokalizacja:\n      X:11,11 Y:11,11"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:visibility="invisible" />
+
+
+</LinearLayout>

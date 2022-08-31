@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DetailsList</string>
+    <string name="todo">TODO</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="dystans">Dystans:</string>
+    <string name="route_name">Route name</string>
+    <string name="distance">Distance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="route_description">Route Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <bool name="isTablet">true</bool>
+</resources>
